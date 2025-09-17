@@ -87,7 +87,7 @@ public static void main(String[] args) {
 ### Links
 To create links, enclose the link text in brackets `[]` and the URL in parentheses `()`:
 ```markdown
-Links like like this:  
+Links look like this:  
 [Duck Duck Go](https://duckduckgo.com)
 
 To add images, use an exclamation mark ! followed by alt text in brackets [] and the image URL in parentheses ():
