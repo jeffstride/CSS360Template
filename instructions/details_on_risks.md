@@ -9,18 +9,20 @@ Your group will submit a list of risks specific to your product and/or developme
 
 > **IMPORTANT**: When you list a risk, consider why this risk is especially important for your company, product, customer, and/or team.  
 
-Your mitigation strategies may include rigorous documentation and reviews, intensive automated testing, time buffering, prototyping, incremental release/rollout (flighting/experimentation), use of third party solutions, redundancy, Chaos Testing, or White Hat Hacking.  
+Your mitigation strategies may include rigorous documentation and reviews, intensive automated testing, time buffering, prototyping, incremental release/rollout (flighting/experimentation), use of third party solutions, redundancy, [Chaos Testing](https://en.wikipedia.org/wiki/Chaos_engineering), or [White Hat Hacking](https://en.wikipedia.org/wiki/White_hat_%28computer_security%29).  
 
 Effectively, you are creating a tailored (and likely hybrid) SDLC that is designed to **manage the risks that matter the most**.
 
-Sommerville has written a section on Risk Management (Chapter 22.1: Risk Management) that can be used to help guide your thinking and work in this section. Note that one would look at the risk categories, identify possible risks, analyze the risks to assign probability and effects, and then finally identify processes/steps to manage the risks. The processes you choose need to match your specific product. 
+Sommerville has written a section on Risk Management (*Chapter 22.1: Risk Management*) that can be used to help guide your thinking and work in this section. Note that one would look at the risk categories, identify possible risks, analyze the risks to assign probability and effects, and then finally identify processes/steps to manage the risks. The processes you choose need to match your specific product. 
 
-## Example 1
-Product: A Day Trader application that allows the user to trade stocks.
-Important Risks: Availability, Speed, Financial Security, Repudiation, Data Accuracy (mispresented or delayed), team members who are not financial experts
-**TODO** detail the risks a bit.
+## Example Risks
+**Product**: A Day Trader application that allows the user to trade stocks.  
 
-## Example 2
-Product: Recipe Manager that does ad based revenue sharing
-Important Risks: integration with social media, optimizing monetization with targeted ads, partnerships, inexperienced and small team with little money
-**TODO** detail the risks a bit.
+**Important Risks**:  
+* **Availability**: A day trader is heavily reliant on a site that available when making a trade is desired.     
+* **Responsiveness (latency)**: A day trader cannot be successful if trades take too long to execute. Important opportunities can be lost if the execution of trade takes too long.   
+* **Financial Security**: Any access to banking information or finances needs to be tightly locked down.  
+* **Repudiation**: All activities need to be proveably executed by the customer who can be held legally responsible for actions, and protected from false actions.  
+* **Data Accuracy** (mispresented or delayed): A trader cannot make good trades if the data is inaccurate or out of date.  
+* **Non-experts on team**: Members on the development team are not financial experts or day traders and won't know how to use the application as the customer would.  
+

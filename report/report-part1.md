@@ -1,4 +1,4 @@
-# Product Title
+# Product Title Goes Here
 > This document contains template text in a callout (blockquote) like this. Your final submission should have all the template text removed, including this text. While you may use callouts, they should be used sparingly and with intention.  
 
 
@@ -55,3 +55,8 @@
 > You are creating a tailored (and likely hybrid) SDLC that is designed to **manage the risks that matter the most**.  Thoroughly describe your process, do not just name a model.
 
 > Create one or more detailed, custom drawings/diagrams of your processes.   
+
+---
+
+> **IMPORTANT**:  Don't for get to read about the **Product Backlog** requirement.  
+> You will create a spreadsheet and submit the spreadsheet.  

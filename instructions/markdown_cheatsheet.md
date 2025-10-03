@@ -1,4 +1,4 @@
-# Team Report
+# Markdown Cheatsheet
 
 You need to write your report in markdown. 
 
@@ -10,6 +10,9 @@ Put images into the `images` directory.
 
 You can create a PDF of your report by installing the Markdown Package.  
 ![Markdown Package](../images/markdown_package.png)  
+
+Here is what the details of the package looks like:  
+![Markdown Details](../images/markdown_image.png)  
 
 Then use the Pallet to create a PDF. 
 
