@@ -2,7 +2,7 @@ import java.awt.event.InputEvent;
 import javax.swing.*;
 
 /**
- * This class is responsible for the menus and the main frame.
+ * This class implements the menus and the main frame.
  */
 public class Sierpinski extends JFrame {
 
