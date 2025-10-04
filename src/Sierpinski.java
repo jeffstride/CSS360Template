@@ -1,6 +1,9 @@
 import java.awt.event.InputEvent;
 import javax.swing.*;
 
+/**
+ * This class implements the menus and the main frame.
+ */
 public class Sierpinski extends JFrame {
 
     // To eliminate a warning shown in Eclipse, add this constant
