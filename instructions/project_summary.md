@@ -42,16 +42,16 @@ Tools to consider for creating your diagrams:
 
 You can see a lot of example UML diagrams [here](https://www.uml-diagrams.org/index-examples.html). 
 
-This course is not intended to focus on rigorous architectural diagrams. CSS 370 is a course that goes into more detail on architecture and technical details. Therefore, your diagrams will not be graded on completeness and technical correctness. Instead, you are expected to draw a consistent diagram that is somewhat feasible for your product. You are expected to be able to explain what the diagram and its components say. 
+This course is not intended to focus on rigorous architectural diagrams. CSS 370 is a course that goes into more detail on architecture and technical details. Therefore, your diagrams will not be graded on completeness and technical correctness. Instead, you are expected to draw a *consistent* diagram that is somewhat feasible for your product. You are expected to be able to explain what the diagram and its components say. 
 
-Leverage the skillsets of your team. One person should not do all the diagrams. Ideally, each person would do one diagram and the group would review, improve and approve each.  
+Leverage the skillsets of your team. One person should not do all the diagrams. Ideally, each person would do one diagram and the group would review, improve, and approve.  
 
 ## Working in GitHub
 Teams should install VS Code and enlist in the project set up on GitHub Education. Instructions for how to do this should be in `Canvas`.   
 
 One aspect of this project is to give the team practice working in GitHub: doing pulls, pushes, and resolving merge conflicts. Mr. Stride will have access to the github repository, and he should be able to see frequent contributions made by all team members.    
 
-Another aspect of this project is to give practice writing documentation in markdown. See the document `markdown_cheatsheet.md` for example markdown.  
+Another aspect of this project is to give practice writing documentation in markdown. See the document `markdown_cheatsheet.md` for example markdown. There is much more available on the internet.    
 
 ## Generating PDF
 Students should install the `Markdown PDF` package into VS Code. See the document: `markdown_cheatsheet.md` for more details on this package and how to generate a PDF file from markdown.  

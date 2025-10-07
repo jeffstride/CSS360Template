@@ -1,5 +1,5 @@
 # Product Title Goes Here
-> This document contains template text in a callout (blockquote) like this. Your final submission should have all the template text removed, including this text. While you may use callouts, they should be used sparingly and with intention.  
+> This document contains template text in a callout (blockquote) like this. Your final submission should have all the template text removed, including this text. While you may use callouts, they should be used with intention. Most of your document will NOT be in a blockquote.  
 
 
 ## Team Summary
@@ -18,22 +18,22 @@
 > Note: You are given some creative license in this assignment to make up stuff and *handwave* when necessary--to overly simplify and make assumptions so that you can be unblocked. However, you should be specific and as realistic as possible.    
 
 ### Product Overview
-> Provide a two paragraph description of your product, and why you think the product is a good fit for this assignment.
+> Provide a (approx) two paragraph description of your product, and why you think the product is a good fit for this assignment.
 
 ### Customer Description
-> Identify the customer. For example: end consumer, a specific business, professional (e.g. dentist, lawyer), government, non-profit organization, or retailer. (This is not an exhaustive list.) Note that your product might have multiple customer types.
+> Identify the customer(s). For example: end consumer, a specific business, professional (e.g. dentist, lawyer), government, non-profit organization, or retailer. (This is not an exhaustive list.) Note that your product might have multiple customer types.
 
 ### Success Metrics
-> Describe the Non-Functional requirements and the critical `ilities` for a successful first release. List the `ilities` using **measurable, specific** and **testable** terms.  
+> Describe the **Non-Functional requirements** and the critical `ilities` for a successful first release. List the `ilities` using **measurable, specific** and **testable** terms. Let me emphasize once more, each non-functional requirement needs to be stated using **METRICS**. 
 
 ### Monetization
-> Describe where the revenue will come from. How will you monetize the product over time? Consider single purchases, subscriptions, and ads. 
+> Describe where the revenue will come from. How will you monetize the product over time? Consider single purchases, subscriptions, in-product purchases, and ads. 
 
 ### Hardware Needed
-> Describe the hardware needed to deliver the final product (mobile, PC, cloud, DataBase, Big Data).
+> Describe the hardware needed to deliver the final product (mobile, PC, cloud, DataBase, Big Data). Consider what the product will be built with, hosted on, and supported with. Consider what hardware the customer will have to user the product.  
 
 ### Team Size
-> Describe the expected size of your mock team at its peak. Consider how your team size will grow, or not, during the all various devlepment phases.  
+> Describe the expected size of your mock team throughout the development lifecycle. Consider how your team size will grow, or not, during the all various devlepment phases. The size of your team will depend on your product (v1 versues v-next) and long-term vision of your business. 
 
 ### External Resources
 > Consider what non-code related resources your product will need that you may need to purchase or license. This could be content or expert consultants.  
@@ -43,20 +43,24 @@
 
 
 ## Requirements Gathering
-> The group will describe how your **mock company** will gather and define the requirements. The methods you use to gather requirements can vary depending on your specific project (e.g. brainstorming, interview, observation, ethnography, JAD). Note that you must create a spreadsheet of **User Stories** that define many of the requirements of your project.   
-> You may have to emulate the requirements gathering process by *rollplaying* with your team members to complete the spreadsheet portion of this assignment.  
+> The group will describe how your **mock company** will gather and define the requirements. The methods you use to gather requirements can vary depending on your specific project (e.g. brainstorming, interview, observation, ethnography, JAD).  
+> 
+> IMPORTANT: Regardless of the SDLC used by your mock company, you must create a spreadsheet of **User Stories** that define all of the requirements of your project.   
+> 
+> You may have to emulate the requirements gathering process by *roll-playing* with your team members to complete the spreadsheet portion of this assignment.  
 
 ## Risks
-> See the added document `details_on_risk.md` for details on this difficult section.  
-
-> Consider what risks your product and company will be exposed to. Steer clear of the generic risks that are present in virtually all products. Zero in on the risks that are specifically important to your product and team. Consider the severity of the consequences and list out only the most important.  
+> IMPORTANT: See the added document `details_on_risk.md` for details on this difficult section.  
+> 
+> Consider what risks your product and company will be exposed to. Steer clear of the generic risks that are present in virtually all products. Zero in on the risks that are specifically important or especially difficult to the product/team. Consider the severity of the consequences, and list out only the most important.  
 
 ## SDLC
 > You are creating a tailored (and likely hybrid) SDLC that is designed to **manage the risks that matter the most**.  Thoroughly describe your process, do not just name a model.
-
+> 
 > Create one or more detailed, custom drawings/diagrams of your processes.   
 
 ---
 
 > **IMPORTANT**:  Don't for get to read about the **Product Backlog** requirement.  
+> 
 > You will create a spreadsheet and submit the spreadsheet.  

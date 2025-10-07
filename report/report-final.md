@@ -48,7 +48,7 @@
 
 > Once again, provide a paragraph of explanatory text to tell the “story” of the diagram. This is an “elevator pitch” of what you’d say to an audience if you were to do a presentation. 
 
-### {Choice Diagram}
+### {Some other Diagram}
 > Pick a diagram that is of a type that is not one of the above. Your specific type will depend on what your product does and the information you want to convey. You may drill down on a single important user experience and provide an [Activity Diagram](https://www.geeksforgeeks.org/unified-modeling-language-uml-activity-diagrams/) like what I’ve done here.  
 ![Activity Diagram](../images/activity_diagram.png)  
 > Once again, provide a paragraph of explanatory text to tell the “story” of the diagram. This is an “elevator pitch” of what you’d say to an audience if you were to do a presentation. 
@@ -86,10 +86,10 @@
 ## Threat Analysis
 Your team will conduct a threat analysis of your product by identifying critical assets and examining your product’s data flow diagram. Using STRIDE, your team will document a list of 10-20 threats (potential attacks). For each threat, you will do a DREAD analysis to estimate its total score. For the top 3 threats, document mitigation steps.
 
-Create one Threat Tree.  See the Template Document for more information.
+Create one Threat Tree. The Threat Tree diagram/image will be included here. 
 
-Use the Threat Analysis Template spreadsheet to do your work. In this sheet there are two sheets. The first is where you’d list out your threats and categorize them.  
-![Thread Tree](../images/threat_tree.png)  
+Use the [Threat Analysis Template spreadsheet](https://docs.google.com/spreadsheets/d/1BvXV_Gzcv7faMBwsuj8eha38R69jb80Z0nKfFDV6bkA/edit?gid=0#gid=0) to do your work. In this spreadsheet there are **two** sheets. The first is where you list out your threats and categorize them. The second sheet helps you calculate the DREAD score for each threat. 
+![Threat Tree](../images/threat_tree.png)  
 
 ## Release Strategy
 > Your team will describe how your product will be released. Describe your git branch strategy and release schedule with dates. Describe whether you make use of continuous integration, flighting, prototypes, beta, or experimentation. Describe how long you expect the product to be in maintenance mode before officially starting the next version. Provide diagrams where appropriate along with descriptive text.
@@ -106,7 +106,7 @@ Use the Threat Analysis Template spreadsheet to do your work. In this sheet ther
 > These terms should appear in a lecture and/or article. But here are some definitions:
 > * **Continuous Integration**: Small code changes are pushed into the main repository frequently. Quality is maintained by having automated tests triggered before integration is allowed. This is often called “Gated Check-in.” 
 > * **Flighting**:  Releasing a product/feature to a small group of users to gather performance metrics and/or user feedback before releasing to the world.
-> * **Git Branch Strategy**: A strategy for how and when branches are created and merged in order to achieve development velocity, independence, quality, and code history for each release.
+> * **Git Branch Strategy**: A strategy for how and when branches are created and merged in order to achieve development velocity, independence, quality, and code history for each release. Recall that all images are to be manually created and not copied from the internet.  
 
 
 

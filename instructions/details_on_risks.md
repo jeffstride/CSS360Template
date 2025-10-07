@@ -19,10 +19,10 @@ Sommerville has written a section on Risk Management (*Chapter 22.1: Risk Manage
 **Product**: A Day Trader application that allows the user to trade stocks.  
 
 **Important Risks**:  
-* **Availability**: A day trader is heavily reliant on a site that available when making a trade is desired.     
-* **Responsiveness (latency)**: A day trader cannot be successful if trades take too long to execute. Important opportunities can be lost if the execution of trade takes too long.   
-* **Financial Security**: Any access to banking information or finances needs to be tightly locked down.  
-* **Repudiation**: All activities need to be proveably executed by the customer who can be held legally responsible for actions, and protected from false actions.  
-* **Data Accuracy** (mispresented or delayed): A trader cannot make good trades if the data is inaccurate or out of date.  
-* **Non-experts on team**: Members on the development team are not financial experts or day traders and won't know how to use the application as the customer would.  
+* **Availability**: A day trader is heavily reliant on a site that available when making a trade is desired.  A Day Trader tool should be available 99.999% of the time with downtime lasting no more than 30 minutes.     
+* **Responsiveness (latency)**: A day trader cannot be successful if trades take too long to execute. Important opportunities can be lost if the execution of trade takes too long. Once executed, trades should take no more than 100 ms to execute.   
+* **Financial Security**: Any access to banking information or finances needs to be tightly locked down. Because of the intense security required, financial activities will be delegated to a 3rd Party that specializes in banking transactions. They must guarantee security with an insurance policy that can handle transactions up to $500,000.  
+* **Repudiation**: All activities need to be proveably executed by the customer who can be held legally responsible for actions, and protected from false actions. All logins are dual authenticated, logged, and verified at each transaction.   
+* **Data Accuracy** (mispresented or delayed): A trader cannot make good trades if the data is inaccurate or out of date. Security information must be 100% accurate and updated every 10 seconds. Extended delays are clearly noted to the user. 
+* **Non-experts on team**: Members on the development team are not financial experts (the are not day traders) and won't know how to use the application as the customer would. A seasoned Day Trader will be hired full-time for continuous consultation.  
 
