@@ -52,7 +52,7 @@
 ## Risks
 > IMPORTANT: See the added document `details_on_risk.md` for details on this difficult section.  
 > 
-> Consider what risks your product and company will be exposed to. Steer clear of the generic risks that are present in virtually all products. Zero in on the risks that are specifically important or especially difficult to the product/team. Consider the severity of the consequences, and list out only the most important.  
+> Consider what risks your product and company will be exposed to. Do not generic risks that are present in virtually all products. Zero in on the risks that are specifically important or especially difficult to the product/team. Consider the severity of the consequences, and list out only the most important.  
 
 ## SDLC
 > You are creating a tailored (and likely hybrid) SDLC that is designed to **manage the risks that matter the most**.  Thoroughly describe your process, do not just name a model.

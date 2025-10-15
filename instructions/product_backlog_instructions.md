@@ -12,7 +12,7 @@ Each member of your team will select one **Story** (not Epic, not Feature) and p
 * a complete set of associated **Acceptance Test Scenarios**, OR  
 * Tasks: A list of non-user stories for the developer that detail how the User Story will be implemented. Ideally, each task would take 1-6 hours to complete.  
 
-Each row will have User Story to describe the work. The User Story will detail **WHAT** is to be done, not *how* it is to be done. 
+Each row will have a User Story to describe the work. The User Story will detail **WHAT** is to be done, not *how* it is to be done. 
 
 You will submit the backlog to Canvas as a spreadsheet (xlsx). Use the template sheet.  
 
@@ -54,4 +54,4 @@ While the User Story is intended to provide good clarity, often it isn't enough 
 ## User Story Template
 As a \_\_\_, I want \_\_\_, so that \_\_\_.  
 
-It can seem that the "so that" part is obvious, but sometimes it is not. At times be compelled to repeat the "I want" part in the "so that" part. Do not. In the minority of cases, the reason for doing something truly cannot be clarified, in which case, it can be omitted.  
+It can seem that the "so that" part is obvious, but sometimes it is not. At times people can be compelled to repeat the "I want" part in the "so that" part. Do not. The "so that" part is the *defense* or *argument* to do the work. In the minority of cases, the reason for doing something truly cannot be clarified, in which case, it can be omitted.  

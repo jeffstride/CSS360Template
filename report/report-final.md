@@ -1,7 +1,7 @@
 # Product Title Goes Here
 *Simulating the phases of SDLC*
 
-> Summary: See the document `project_summary.md` for an overview of the project. This document will be fore **part 2** which focuses on:
+> Summary: See the document `project_summary.md` for an overview of the project. This document describes **part 2** which focuses on:
 > * Architecture Diagrams  
 > * Design(s) for a low-level module  
 > * Threat Analysis  
@@ -15,12 +15,12 @@
 ## Architecture
 > Your team will create a minimum of four (4) diagrams to represent your product’s architecture. (Consult Sommerville chapters 5-7.) The diagrams should be clear and easy to interpret. Each diagram should include explanatory text adding context and details that may not be present or obvious in the diagram. If there are multiple types of lines or shapes, provide a legend to clarify what they mean(e.g. solid/dashed lines, circles vs squares). Each diagram should be consistent within itself.  
 >
-> For each diagram you’ll provide a paragraph of explanatory text to tell the “story” of the diagram. This is an “elevator pitch” of what you’d say to an audience if you were to do a presentation. This paragraph might take the place of a legend, or at least reduce what is found in the legend, particularly for a diagram where industry standards are followed without variation. For example, if you draw a process diagram, you don’t need to have a legend explaining what the arrows mean. 
+> For each diagram, you’ll provide a paragraph of explanatory text to tell the “story” of the diagram. This is an “elevator pitch” of what you’d say to an audience if you were to do a presentation. This paragraph might take the place of a legend, or at least reduce what is found in the legend, particularly for a diagram where industry standards are followed without variation. For example, if you draw a process diagram, you don’t need to have a legend explaining what the arrows mean. 
 >
 > The team should have one of each of the following diagrams: 
 > 1. Use Case Diagram  
 > 2. Data Flow Diagram  
-> 3. Layered Architecture as a Block Diagram  
+> 3. Block Diagram or Nested Block Diagram     
 > 4. One of the following:  
 >       * Sequence Diagram  
 >       * Activity Diagram  
@@ -41,8 +41,8 @@
 > 
 > Once again, provide a paragraph of explanatory text to tell the “story” of the diagram. This is an “elevator pitch” of what you’d say to an audience if you were to do a presentation.
 
-### Layered Architecture as a Block Diagram
-> Replace the sample diagram below with one that represents the layers and containment of modules in your product. There are many diagrams that include blocks. If you search the internet, you'll find many different diagrams with arrows that indicate state, process flow, and more. In this diagram you are to have ZERO arrows. The position of the blocks is supposed to tell the story.  
+### (Nested) Block Diagram
+> Replace the sample diagram below with one that represents the layers, organization, and/or structure of the modules in your product. There are many diagrams that include blocks. If you search the internet, you'll find many different diagrams with arrows that indicate state, process flow, and more. In this diagram you'll see that there are no arrows because the position of the blocks is supposed to tell the story. Strive to have no arrows in your diagram.   
 
 ![Money Block Arch](../images/money_block.png)  
 
@@ -54,7 +54,7 @@
 > Once again, provide a paragraph of explanatory text to tell the “story” of the diagram. This is an “elevator pitch” of what you’d say to an audience if you were to do a presentation. 
 
 ## Module Design
-> Your team will pick a specific module (sub-system, component, process) of your product to detail. You will diagram one module with 1-2 diagrams. See Topics 8, 9 & 11 for reference.
+> Your team will pick a specific module (sub-system, component, process) of your product to detail. You will diagram one module with 1-2 diagrams. See Topics on System Models and Architecture for reference.
 > 
 > You can choose any diagram type. In addition to the above diagrams, consider: 
 > * Class Structured Analysis (Entity-Relationship Diagram)
