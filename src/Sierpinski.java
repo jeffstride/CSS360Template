@@ -22,7 +22,6 @@ public class Sierpinski extends JFrame {
         // Use theGUI as the semaphore object
         SwingUtilities.invokeLater(() -> theGUI.createFrame());
     }
-    /* here is Mr. Stride's comment. Another comment. */
 
     /**
      * Create the main JFrame and all animation JPanels.
