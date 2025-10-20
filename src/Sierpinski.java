@@ -12,6 +12,7 @@ public class Sierpinski extends JFrame {
     public static final int WIDTH = 800;
     public static final int HEIGHT = 800;
 
+    /* comment for my panel */
     private MyPanel panel;
 
     public static void main(String[] args) throws InterruptedException {
