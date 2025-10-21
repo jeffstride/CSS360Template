@@ -23,7 +23,6 @@ You will submit two documents to Canvas:
 2) Spreadsheet (XLSX) of Thread Model.  
 
 See the document `report-final.md` for the template and detailed instructions. It has details on the following.
-* Sprint Backlog (tasks, details, test cases)  
 * Architecture Diagrams  
 * Design(s) for a low-level module  
 * Threat Analysis (submitted as a spreadsheet) 
